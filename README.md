@@ -12,7 +12,7 @@ I have experience in predictive modeling, Bayesian inference, uncertainty quanti
 
 <br>
 <br>
-#### Areas of Interest: <br>
+### Areas of Interest: 
  * Historical data borrowing <br>
  * A/B testing and experimental design (see: https://github.com/minjee-kim/ab-testing) <br>
  * Power and sample size calculations <br>
