@@ -14,7 +14,7 @@ I have worked for a biostatistics research lab, where I gained experience with p
 <br>
 I am also interested in working with: <br>
  * Historical data borrowing <br>
- * A/B testing and experimental design <br>
+ * A/B testing and experimental design (see: https://github.com/minjee-kim/ab-testing) <br>
  * Power and sample size calculations <br>
  * Causal inference <br>
  * Longitudinal data analysis <br>
