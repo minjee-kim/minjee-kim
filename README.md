@@ -11,6 +11,7 @@ My current research focuses on modeling latent structure using Bayesian hierarch
 I have worked for a biostatistics research lab, where I gained experience with principal component analysis, data visualization, hypothesis testing, and high-dimensional regression. During my industry internship, I worked on forecasting and predictive modeling, with an emphasis on uncertainty quantification.
 
 <br>
+<br>
 I am also interested in working with: <br>
 * Historical data borrowing <br>
 * A/B testing and experimental design <br>
