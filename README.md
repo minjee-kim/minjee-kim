@@ -8,11 +8,11 @@ My current research focuses on modeling latent structure using Bayesian hierarch
 Check out our recent publication: https://www.nature.com/articles/s41467-025-66515-z <br>
 
 <br>
-I have worked for a biostatistics research lab, where I gained experience with principal component analysis, data visualization, hypothesis testing, and high-dimensional regression. During my industry internship, I worked on forecasting and predictive modeling, with an emphasis on uncertainty quantification.
+I have experience in predictive modeling, Bayesian inference, uncertainty quantification, simulation, and statistical model validation, with applications in public health, biomedical research, and product development.
 
 <br>
 <br>
-I am also interested in working with: <br>
+**Areas of Interest**: <br>
  * Historical data borrowing <br>
  * A/B testing and experimental design (see: https://github.com/minjee-kim/ab-testing) <br>
  * Power and sample size calculations <br>
