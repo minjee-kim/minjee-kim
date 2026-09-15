@@ -17,10 +17,10 @@ I have experience in predictive modeling, Bayesian inference, uncertainty quanti
  * Bayesian Historical data borrowing <br>
  * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
  * Power and sample size calculations <br>
- * [Causal inference](https://github.com/minjee-kim/Causal-Inference-Basics)  <br>
- * [Machine learning with statistically rigorous inference](https://github.com/minjee-kim/Double-Debiased-ML) <br>
+ * Causal inference  <br>
+ * Machine learning with statistically rigorous inference <br>
  * Longitudinal data analysis <br>
  * Clinical trial design <br>
  * Latent Class Analysis <br> 
- * [Survival Analysis](https://github.com/minjee-kim/Survival-Analysis-Basics) <br>
- * [Computer simulations for policy, emergent behavior, physics modeling, etc...](https://github.com/minjee-kim/Validating-Computer-Simulations)<br>
+ * Survival Analysis <br>
+ * Computer simulations for policy, emergent behavior, physics modeling, etc...<br>
