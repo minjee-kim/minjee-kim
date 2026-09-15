@@ -17,7 +17,7 @@ I have experience in predictive modeling, Bayesian inference, uncertainty quanti
  * Bayesian Historical data borrowing <br>
  * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
  * Power and sample size calculations <br>
- * Causal inference  <br>
+ * [Causal inference](https://github.com/minjee-kim/Causal-Inference-Basics)  <br>
  * [Machine learning with statistically rigorous inference](https://github.com/minjee-kim/Double-Debiased-ML) <br>
  * Longitudinal data analysis <br>
  * Clinical trial design <br>
