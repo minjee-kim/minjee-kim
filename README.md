@@ -4,7 +4,7 @@
 Ph.D. Candidate in Statistics at Texas A&M University <br>
 Expected Graduation: May 2027
 
-My current research focuses on modeling latent structure using Bayesian hierarchical models. <br>
+My current research focus is proposing Bayesian hierarchical models for real world application and validating such complex models.  <br>
 Check out our recent publication: https://www.nature.com/articles/s41467-025-66515-z <br>
 
 <br>
