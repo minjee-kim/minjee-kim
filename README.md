@@ -15,10 +15,10 @@ I have experience in predictive modeling, Bayesian inference, uncertainty quanti
 
 #### Areas of Interest:  <br>
  * Bayesian Historical data borrowing <br>
- * A/B testing and experimental design (see: https://github.com/minjee-kim/ab-testing) <br>
+ * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
  * Power and sample size calculations <br>
  * Causal inference  <br>
- * Machine learning with statistically rigorous inference (see: https://github.com/minjee-kim/Double-Debiased-ML)) <br>
+ * [Machine learning with statistically rigorous inference](https://github.com/minjee-kim/Double-Debiased-ML) <br>
  * Longitudinal data analysis <br>
  * Clinical trial design <br>
  * Computer simulations for policy, emergent behavior, physics modeling, etc...<br>
