@@ -4,7 +4,7 @@
 Ph.D. Candidate in Statistics at Texas A&M University <br>
 Expected Graduation: May 2027
 
-My current research proposes Bayesian hierarchical models for real world application and validates such complex models.  <br>
+My current research proposes and validates Bayesian hierarchical models for real world application.  <br>
 Check out our recent publication: https://www.nature.com/articles/s41467-025-66515-z <br>
 
 <br>
