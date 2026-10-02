@@ -21,7 +21,7 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
  * Latent price recovery for lagged measurement <br>
 
 ### Projects 
- * [Bayesian latent-severity model]((https://github.com/minjee-kim/Bayesian-latent-severity-LCA)) <br>
+ * [Bayesian latent-severity model](https://github.com/minjee-kim/Bayesian-latent-severity-LCA) <br>
  * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
  * [R package development: nhanesGraph](https://github.com/minjee-kim/nhanesGraph) <br>
 
