@@ -22,6 +22,6 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
 
 ### Projects 
  * Methodology: [Bayesian latent-severity model](https://github.com/minjee-kim/Bayesian-latent-severity-LCA) <br>
- * Practice project: [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
+ * Worked example: [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
  * R package development: [nhanesGraph](https://github.com/minjee-kim/nhanesGraph) <br>
 
