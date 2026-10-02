@@ -14,7 +14,7 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
 <br>
 
 ### Areas of Interest:  <br>
- * Bayesian latent-variable models <br>
+ * [Bayesian latent-variable models](https://github.com/minjee-kim/Bayesian-latent-severity-LCA) <br>
  * State-space models and filtering <br>
  * Uncertainty quantification <br>
  * Partial and noisy observations <br>
