@@ -14,13 +14,9 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
 <br>
 
 #### Areas of Interest:  <br>
- * Bayesian modeling and inference
- * Statistical model validation and robustness
- * Uncertainty quantification
- * Predictive modeling and machine learning
- * Simulation and Monte Carlo methods
- * Time series and stochastic processes
+ * Bayesian latent-variable models <br>
+ * State-space models and filtering <br>
+ * Uncertainty quantification <br>
+ * Partial and noisy observations <br>
  * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
- * Causal Inference
- * Latent variable models
- * Quantitative modeling and decision-making under uncertainty
+
