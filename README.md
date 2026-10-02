@@ -13,10 +13,14 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
 <br>
 <br>
 
-#### Areas of Interest:  <br>
+### Areas of Interest:  <br>
  * Bayesian latent-variable models <br>
  * State-space models and filtering <br>
  * Uncertainty quantification <br>
  * Partial and noisy observations <br>
+ * Latent price recovery for lagged measurement <br>
+
+### Tools 
  * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
+ * [nhanesGraph](https://github.com/minjee-kim/nhanesGraph) <br>
 
