@@ -21,9 +21,10 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
  
 
 ### Projects 
- * Bayesian methodology development: [Bayesian latent-severity model](https://github.com/minjee-kim/Bayesian-latent-severity-LCA) Latent-state inference from imperfect measurements. A single severity factor concentrates evidence in a design that is not identifiable parameter by parameter, and the posterior is propagated into a distribution over economic loss. <br>
+ * [Bayesian methodology development](https://github.com/minjee-kim/Bayesian-latent-severity-LCA): Latent-state inference from imperfect measurements. The conditional dependence parameter, severity, concentrates evidence in a design that is not identifiable. 
  
- * Latent price recovery for lagged measurement [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal)<br> 
- * Worked example: [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
+ * [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal): Latent price recovery for lagged measurement via a bayesian state-space desmoothing method. <br>
+   
+ * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing): Worked example of AB testing that outlines metric definition, design checks, and treatment-effect estimates on Cookie Cats, the Udacity free-trial screener, and the Upworthy archive. <br>
  * R package development: [nhanesGraph](https://github.com/minjee-kim/nhanesGraph) <br>
 
