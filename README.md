@@ -15,16 +15,14 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
 
 ### Areas of Interest:  <br>
  * Bayesian latent-variable models <br>
- * State-space models and filtering <br>
+ * State-space models and parameter recovery in sparse data <br>
  * Uncertainty quantification <br>
  * Partial and noisy observations <br>
  
 
-### Projects 
- * [Bayesian methodology development](https://github.com/minjee-kim/Bayesian-latent-severity-LCA): Latent-state inference from imperfect measurements. The conditional dependence parameter, severity, concentrates evidence in a design that is not identifiable. 
- 
- * [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal): Latent price recovery for lagged measurement via a bayesian state-space desmoothing method. <br>
-   
- * [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing): Worked example of AB testing that outlines metric definition, design checks, and treatment-effect estimates on Cookie Cats, the Udacity free-trial screener, and the Upworthy archive. <br>
- * R package development: [nhanesGraph](https://github.com/minjee-kim/nhanesGraph) <br>
+### Projects
 
+* **Methodology development.** [Bayesian latent-severity model](https://github.com/minjee-kim/Bayesian-latent-severity-LCA): latent-state inference from imperfect measurements. A single severity factor induces dependence and concentrates evidence in a design that is not identifiable parameter by parameter.
+* **Methodology development.** [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal): latent price recovery from lagged assessments, using a Bayesian state-space desmoothing filter for New York class 1 property.
+* **Applied analysis.** [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing): metric definition, design checks, and treatment-effect estimates for Cookie Cats, the Udacity free-trial screener, and the Upworthy archive.
+* **R package development.** [nhanesGraph](https://github.com/minjee-kim/nhanesGraph): search and download of public-use continuous NHANES files from the current CDC links, 1999–2000 through August 2021–August 2023.
