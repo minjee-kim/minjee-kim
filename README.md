@@ -23,6 +23,6 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
 ### Projects
 
 * **Methodology development.** [Bayesian latent-severity model](https://github.com/minjee-kim/Bayesian-latent-severity-LCA): latent-state inference from imperfect measurements. A single severity factor induces dependence and concentrates evidence in a design that is not identifiable parameter by parameter.
-* **Methodology development.** [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal): latent price recovery from lagged assessments, using a Bayesian state-space desmoothing filter for New York class 1 property.
+* **Applied analysis.** [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal): latent price recovery from lagged assessments, using a Bayesian state-space desmoothing filter for New York class 1 property.
 * **Applied analysis.** [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing): metric definition, design checks, and treatment-effect estimates for Cookie Cats, the Udacity free-trial screener, and the Upworthy archive.
 * **R package development.** [nhanesGraph](https://github.com/minjee-kim/nhanesGraph): search and download of public-use continuous NHANES files from the current CDC links, 1999–2000 through August 2021–August 2023.
