@@ -1,23 +1,17 @@
 
-## Minjee Kim 
+## Minjee Kim
+Ph.D. candidate in Statistics, Texas A&M University. Expected May 2027.
 
-Ph.D. Candidate in Statistics at Texas A&M University <br>
-Expected Graduation: May 2027
+I work on Bayesian hierarchical models for quantities that are not observed directly, when the measurements are partial, noisy, or lagged. The question is what can be recovered, and how sure we should be.
 
-My current research proposes and validates Bayesian hierarchical models for real world application.  <br>
-Check out our recent publication: https://www.nature.com/articles/s41467-025-66515-z <br>
+Coauthor, [Prevalence study in Cameroon identifies Brucella abortus as the endemic Brucella species in livestock](https://www.nature.com/articles/s41467-025-66515-z), *Nature Communications* (2025).
 
-<br>
-I have experience in Bayesian inference, predictive modeling, simulation, model validation, causal inference, and experimental design, with an emphasis on understanding when statistical models are reliable and what can be learned from limited or noisy data.
+### Areas of interest
+* Bayesian latent-variable models
+* Uncertainty quantification
+* Partial and noisy observations
+* Parameter recovery in sparse data
 
-<br>
-<br>
-
-### Areas of Interest:  <br>
- * Bayesian latent-variable models <br>
- * State-space models and parameter recovery in sparse data <br>
- * Uncertainty quantification <br>
- * Partial and noisy observations <br>
  
 
 ### Projects
