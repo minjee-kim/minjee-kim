@@ -18,10 +18,11 @@ I have experience in Bayesian inference, predictive modeling, simulation, model 
  * State-space models and filtering <br>
  * Uncertainty quantification <br>
  * Partial and noisy observations <br>
- * Latent price recovery for lagged measurement <br>
+ 
 
 ### Projects 
- * Methodology: [Bayesian latent-severity model](https://github.com/minjee-kim/Bayesian-latent-severity-LCA) <br>
+ * Methodology development: [Bayesian latent-severity model](https://github.com/minjee-kim/Bayesian-latent-severity-LCA) <br>
+ * Latent price recovery for lagged measurement [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal)<br> 
  * Worked example: [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing) <br>
  * R package development: [nhanesGraph](https://github.com/minjee-kim/nhanesGraph) <br>
 
