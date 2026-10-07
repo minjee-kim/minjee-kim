@@ -2,7 +2,7 @@
 ## Minjee Kim
 Ph.D. candidate in Statistics, Texas A&M University. Expected May 2027.
 
-I work on Bayesian hierarchical models for quantities that are not observed directly, when the measurements are partial, noisy, or lagged. 
+I work with Bayesian hierarchical models for estimating quantities that are not observed directly, when the measurements are partial, noisy, or lagged. 
 
 Coauthor, [Prevalence study in Cameroon identifies Brucella abortus as the endemic Brucella species in livestock](https://www.nature.com/articles/s41467-025-66515-z), *Nature Communications* (2025).
 
