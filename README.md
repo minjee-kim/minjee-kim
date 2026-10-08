@@ -10,7 +10,7 @@ Coauthor, [Prevalence study in Cameroon identifies Brucella abortus as the endem
 * Bayesian latent-variable models
 * Uncertainty quantification
 * Partial and noisy observations
-* Parameter recovery in sparse data
+* Model diagnostics & validation
 
  
 
