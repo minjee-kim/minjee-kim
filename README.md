@@ -2,7 +2,7 @@
 ## Minjee Kim
 Ph.D. candidate in Statistics, Texas A&M University. Expected May 2027.
 
-I work with Bayesian hierarchical models for estimating quantities that are not observed directly, when the measurements are partial, noisy, or lagged. 
+I work on statistical identifiability, Bayesian inference, and uncertainty quantification, including how to assess whether computational estimates are reliable when observations are partial, noisy, or lagged.
 
 Coauthor, [Prevalence study in Cameroon identifies Brucella abortus as the endemic Brucella species in livestock](https://www.nature.com/articles/s41467-025-66515-z), *Nature Communications* (2025).
 
@@ -11,8 +11,25 @@ Coauthor, [Prevalence study in Cameroon identifies Brucella abortus as the endem
 * Uncertainty quantification
 * Partial and noisy observations
 * Model diagnostics & validation
+* Monte Carlo methods & computational inference
 
  
+
+### Featured research project
+
+**[FLOCK — Monte Carlo Exploration & Algorithm Benchmarking](https://github.com/minjee-kim/FLOCK)**
+
+Designed and evaluated coordinated exploration strategies for challenging posterior distributions, including covariance-guided proposals, repulsive chains, and importance-sampling consolidation. Benchmarked estimation accuracy against MCMC baselines under controlled computational budgets, identifying promising results in selected simulations and limitations in posterior inference.
+
+<p align="center">
+  <a href="https://github.com/minjee-kim/FLOCK">
+    <img src="https://raw.githubusercontent.com/minjee-kim/FLOCK/main/figures/geometric_search.svg" alt="FLOCK geometry-guided posterior exploration" width="510">
+  </a>
+</p>
+
+[Research report (PDF)](https://github.com/minjee-kim/FLOCK/blob/main/paper/main.pdf) · [Source code and experiments](https://github.com/minjee-kim/FLOCK)
+
+*Exploratory methodological research; not a validated or peer-reviewed MCMC algorithm.*
 
 ### Projects
 
