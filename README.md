@@ -41,6 +41,7 @@ Designed and evaluated coordinated exploration strategies for challenging poster
 
 ### Projects
 
+* **Financial forecasting (in progress).** [Return prediction and model evaluation](https://github.com/minjee-kim/financial-forecasting): exploratory analysis of financial time series, rolling volatility and momentum features, and a forecasting workflow designed around chronological evaluation and baseline comparisons. Out-of-sample results are not yet reported.
 * **Applied analysis.** [NYC rolling sales price recovery](https://github.com/minjee-kim/NYC-appraisal): latent price recovery from lagged assessments, using a Bayesian state-space desmoothing filter for New York class 1 property.
 * **Applied analysis.** [A/B testing and experimental design](https://github.com/minjee-kim/ab-testing): metric definition, design checks, and treatment-effect estimates for Cookie Cats, the Udacity free-trial screener, and the Upworthy archive.
 * **R package development.** [nhanesGraph](https://github.com/minjee-kim/nhanesGraph): search and download of public-use continuous NHANES files from the current CDC links, 1999–2000 through August 2021–August 2023.
