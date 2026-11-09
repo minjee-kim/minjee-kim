@@ -17,7 +17,7 @@ Coauthor, [Prevalence study in Cameroon identifies Brucella abortus as the endem
 
 - **[Bayesian latent-severity modeling](https://github.com/minjee-kim/Bayesian-latent-severity-LCA)** — Bayesian latent-variable modeling for diagnostic test evaluation without a gold standard; MCMC, parameter-recovery simulations, and a Strongyloides data reanalysis.
 - **[FLOCK — Monte Carlo exploration](https://github.com/minjee-kim/FLOCK)** — Exploratory algorithm research comparing coordinated search strategies with MCMC baselines. Results are mixed; this is not a validated MCMC method. [Research report](https://github.com/minjee-kim/FLOCK/blob/main/paper/main.pdf).
-- **[Financial forecasting](https://github.com/minjee-kim/financial-forecasting)** — Compared 11 statistical and machine learning forecasting specifications for next-day SPY returns using time-series cross-validation. Ridge only marginally beat the historical-mean benchmark on validation data (OOS R² = 0.001).
+- **[Financial forecasting](https://github.com/minjee-kim/financial-forecasting)** — Compared statistical and machine learning models for next-day SPY returns. Complex models showed little improvement over a simple baseline.
 - **[NYC property appraisal](https://github.com/minjee-kim/NYC-appraisal)** *(in progress)*— Bayesian state-space approach to recovering latent property prices from lagged assessments and market observations.
 - **[A/B testing and experimental design](https://github.com/minjee-kim/ab-testing)** — Design checks, metric selection, and treatment-effect estimation across three public experiment datasets.
 - **[nhanesGraph](https://github.com/minjee-kim/nhanesGraph)** — R package for discovering and downloading public-use NHANES data.
